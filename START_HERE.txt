@@ -1,0 +1,30 @@
+SIGNAL OR NOISE — SAI ANIRUDH MANTHA
+
+HOW TO OPEN THE WEBSITE
+
+1. Extract the ZIP file.
+2. Open the extracted folder in VS Code.
+3. Open Terminal in VS Code.
+4. Run:
+
+   npm install
+
+5. After installation finishes, run:
+
+   npm run dev
+
+6. Keep the terminal running.
+7. Open the local address displayed in the terminal.
+
+HOW TO STOP THE WEBSITE
+
+Click inside the running terminal and press Ctrl + C.
+
+HOW TO UNDERSTAND THE PROJECT
+
+Open ANIRUDH_PROJECT_NOTES.md.
+
+IMPORTANT
+
+This is an independent Spotify-inspired portfolio case study.
+The dataset and results are synthetic, not Spotify production data.
