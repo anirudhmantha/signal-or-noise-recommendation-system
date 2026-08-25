@@ -1,6 +1,5 @@
 # Signal or Noise
 
-**Created by Sai Anirudh Mantha**
 
 Signal or Noise is an independent product analytics case study about a problem I noticed in music recommendations: listening history records what played, but it does not always explain why it played.
 
